@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+
+int main() {
+float x = 14.03;
+cout << "the value of x is :" << x ;
+
+    return 0;
+}
